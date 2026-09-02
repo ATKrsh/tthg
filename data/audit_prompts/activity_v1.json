@@ -1,0 +1,6 @@
+{
+  "prompt_id": "act_001",
+  "version": "1.0",
+  "purpose": "Activity recognition",
+  "text": "Identify distinct physical activities and timestamp intervals factually."
+}

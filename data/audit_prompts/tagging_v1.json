@@ -1,0 +1,6 @@
+{
+  "prompt_id": "tag_001",
+  "version": "1.0",
+  "purpose": "Controlled taxonomy tagging",
+  "text": "Assign controlled taxonomy tags with confidence scores based strictly on visual evidence."
+}

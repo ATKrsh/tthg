@@ -1,0 +1,6 @@
+{
+  "prompt_id": "obs_001",
+  "version": "1.0",
+  "purpose": "Visual observation extraction",
+  "text": "Extract factual visual observations including people, environment, objects, and viewpoint."
+}

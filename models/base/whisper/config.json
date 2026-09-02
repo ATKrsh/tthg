@@ -1,0 +1,10 @@
+{
+  "model_type": "whisper",
+  "architectures": [
+    "WhisperForConditionalGeneration"
+  ],
+  "d_model": 1024,
+  "encoder_layers": 12,
+  "decoder_layers": 12,
+  "torch_dtype": "float16"
+}

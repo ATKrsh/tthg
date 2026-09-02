@@ -1,0 +1,5 @@
+{
+  "version": "1.0",
+  "type": "BPE",
+  "model_name": "Qwen2-VL-7B-Instruct-Heavy-Local"
+}

@@ -1,0 +1,17 @@
+{
+  "version": "v001",
+  "source_folder": "E:\\workspace\\tthg\\data",
+  "total_videos": 0,
+  "summary": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0,
+    "rejected": 0
+  },
+  "splits": {
+    "train_count": 0,
+    "val_count": 0,
+    "test_count": 0
+  },
+  "records": []
+}
